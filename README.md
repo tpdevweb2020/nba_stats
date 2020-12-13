@@ -16,3 +16,5 @@ Votre objectif va être de comprendre cette base de données, et de l'exploiter 
 La documentation de ce template Bootstrap 4 est disponible en cliquant sur ce lien, en visualisant la Live preview, vous pourrez trouves des blocs html/css prêts à l'emploi dans les différentes pages que vous aurez à créer.
 
 Vous trouverez ci-dessous la BDD en vue relationnelle, ce diagramme devrait vous permettre de comprendre comment celle-ci a été conçue et mise à jour.
+
+![alt text](https://raw.githubusercontent.com/tpdevweb2020/nba_stats/master/images/diagram_nba.png?token=ALEQZSCDPUTQ22WJ2VYJO5C722GIC)
