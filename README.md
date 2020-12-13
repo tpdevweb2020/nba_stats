@@ -1,4 +1,4 @@
-# nba_stats
+# EXERCICE : NBA Stats
 
 ## Consignes
 1. Commencez par effectuer un découpage des différents blocs HTML de ce template afin de faciliter la création de nouvelles pages
@@ -7,7 +7,7 @@
 4. Enfin, le champs recherche devrait permettre de retrouver une élément, qu'il soit joueur, manager, ou équipe. Si possible, intégrer un autocomplete ou un résultat de recherche immédiat en ajax, avec un tag en bout de ligne qui spécifiera le type de résultat (Equipe, Joueur ou Manager) selon les résultats trouvés.
 
 
-##Bienvenue
+## Bienvenue
 
 Dans ce nouvel exercice, nous allons utiliser une base de données pré-conçue et disponible ici. Cette base de données contient toutes les statistiques de la saison 2017/2018 de NBA, l'élite du basket-ball américain et même mondial. Il vous suffit de créer une base vide dans votre espace phpmyadmin, puis de l'importer, les tables sont quant à elles déjà fournies en statistiques.
 
