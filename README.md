@@ -17,4 +17,4 @@ La documentation de ce template Bootstrap 4 est disponible en cliquant sur ce li
 
 Vous trouverez ci-dessous la BDD en vue relationnelle, ce diagramme devrait vous permettre de comprendre comment celle-ci a été conçue et mise à jour.
 
-![alt text](https://raw.githubusercontent.com/tpdevweb2020/nba_stats/master/images/diagram_nba.png?token=ALEQZSCDPUTQ22WJ2VYJO5C722GIC)
+![alt text](https://github.com/tpdevweb2020/nba_stats/blob/master/images/diagram_nba.png)
