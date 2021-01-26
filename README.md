@@ -9,7 +9,7 @@
 
 ## Bienvenue
 
-Dans ce nouvel exercice, nous allons utiliser une base de données pré-conçue et [disponible ici] (https://tpdevweb-nbastats.herokuapp.com/db/nba_db.sql). Cette base de données contient toutes les statistiques de la saison 2017/2018 de NBA, l'élite du basket-ball américain et même mondial. Il vous suffit de créer une base vide dans votre espace phpmyadmin, puis de l'importer, les tables sont quant à elles déjà fournies en statistiques.
+Dans ce nouvel exercice, nous allons utiliser une base de données pré-conçue et [disponible ici](https://tpdevweb-nbastats.herokuapp.com/db/nba_db.sql). Cette base de données contient toutes les statistiques de la saison 2017/2018 de NBA, l'élite du basket-ball américain et même mondial. Il vous suffit de créer une base vide dans votre espace phpmyadmin, puis de l'importer, les tables sont quant à elles déjà fournies en statistiques.
 
 Votre objectif va être de comprendre cette base de données, et de l'exploiter de manière à rendre ce dashboard un centre unique de statistiques et de consultations des joueurs et des équipes du championnat NBA. La compréhension de l'Anglais est alors un vrai plus dans l'analyse des termes utilisés par les colonnes, mêmes s'ils sont également compréhensibles avec une simple recherche Google.
 
